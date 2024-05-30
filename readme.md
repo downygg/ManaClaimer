@@ -20,4 +20,6 @@ Auto Multi Mana Spell on Sei Claimer (MANA)<br>
 - On Netwrok tab, select user
 - your session available at request header (authorization key) start with tma..
 
+# Api Key
+- Public Api Key : ```spellmana```
 
